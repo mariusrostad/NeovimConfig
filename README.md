@@ -56,6 +56,12 @@ Next we need to install python support (node is optional)
   ```
   npm i -g neovim
   ```
+
+For you to get live_grep to work you will need to install `ripgrep` 
+
+  ```
+  sudo apt-get install ripgrep
+  ```
 ---
 
 **NOTE** make sure you have [node](https://nodejs.org/en/) installed, I recommend a node manager like [fnm](https://github.com/Schniz/fnm).
